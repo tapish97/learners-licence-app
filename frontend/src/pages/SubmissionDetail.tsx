@@ -53,7 +53,7 @@ const SubmissionDetail = () => {
 
   const handleUpdate = async () => {
     try {
-      const res = await api.patch(`/submissions/${id}/status`, {
+      await api.patch(`/submissions/${id}/status`, {
         status,
         internalNotes,
       });
