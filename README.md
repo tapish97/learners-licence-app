@@ -12,6 +12,7 @@ A full-stack application to manage learner’s licence applications.
 ## 🌟 Live Demo
 
 * **Frontend**: [https://learners-licence-app.vercel.app](https://learners-licence-app.vercel.app)
+> ⚠️ **Note:** The deployed backend at [https://learners-licence-app.onrender.com](https://learners-licence-app.onrender.com) may take 1-2 minutes to respond initially if it was inactive. This is due to cold start behavior on Render's free tier.
 * **Backend API**: [https://learners-licence-app.onrender.com](https://learners-licence-app.onrender.com)
 
 ---
