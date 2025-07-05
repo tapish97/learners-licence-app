@@ -1,0 +1,25 @@
+# Global ignores
+node_modules/
+.env
+.DS_Store
+dist/
+uploads/
+*.log
+*.tsbuildinfo
+
+# IDEs
+.vscode/
+.idea/
+
+# Frontend (React / Vite / CRA)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+
+# Backend (Node.js + TypeScript)
+backend/node_modules/
+backend/dist/
+backend/uploads/
+backend/.env
+backend/*.tsbuildinfo
